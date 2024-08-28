@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.App .App-header div .a .ul .li{
+  list-style-type: none;
+}
+
