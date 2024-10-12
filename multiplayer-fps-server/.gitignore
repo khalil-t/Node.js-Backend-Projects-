@@ -1,0 +1,23 @@
+# Node modules folder
+/node_modules
+
+# Environment variables
+.env
+
+# Build output (if using a build system)
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Test coverage
+coverage/
+
+# macOS system files
+.DS_Store
+
+# Optional: Lock files for package managers
+# package-lock.json
+# yarn.lock
